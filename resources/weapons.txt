@@ -1,0 +1,10 @@
+None
+Assault Rifle 
+Burst Assault Rifle
+Grenade
+Pistol
+Proximity Mine
+Pump Shotgun
+Remote Explosives
+Rocket Launcher 
+Tactical Shotgun
