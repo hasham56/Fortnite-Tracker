@@ -33,3 +33,5 @@ This is a "Fortnite Tracker" coded in python using tkinter library
 ![](screenshots/screen8.PNG)
 ## Selected games Preview
 ![](screenshots/screen9.PNG)
+
+IF any queries you can ask me i will try to reply as soon as possible
