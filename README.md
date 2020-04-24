@@ -16,20 +16,20 @@ This is a "Fortnite Tracker" coded in python using tkinter library
 
 ## Here are some screenshot of Fortnite Tracker.
 ## Menu
-![](screenshots/screen1.png)
+![](screenshots/screen1.PNG)
 ## Casual Mode
-![](screenshots/screen2.png)
+![](screenshots/screen2.PNG)
 ## Compitative Mode
-![](screenshots/screen3.png)
+![](screenshots/screen3.PNG)
 ## Screenshot Viewer
-![](screenshots/screen4.png)
+![](screenshots/screen4.PNG)
 ## Sessions Storge
-![](screenshots/screen5.png)
+![](screenshots/screen5.PNG)
 ## Graphs
-![](screenshots/screen6.png)
+![](screenshots/screen6.PNG)
 ## Lists of Weapons you died to in every game
-![](screenshots/screen7.png)
+![](screenshots/screen7.PNG)
 ## Game Summary (if you write something it will show here)
-![](screenshots/screen8.png)
+![](screenshots/screen8.PNG)
 ## Selected games Preview
-![](screenshots/screen9.png)
+![](screenshots/screen9.PNG)
