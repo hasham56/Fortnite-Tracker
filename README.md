@@ -1,5 +1,5 @@
 # Fortnite-Tracker
-This is a "Fortnite Tracker" coded in python using tkinter library
+This is a "Fortnite Tracker" coded in python using tkinter library.
 
 ## Setup
  - Step1: create a virtual environment or use your system environment.
